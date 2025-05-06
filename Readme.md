@@ -20,5 +20,8 @@ This project implements a decryption tool for the Affine Cipher using **brute-fo
    git clone https://github.com/YOUR_USERNAME/Affine-Cipher-Decryption.git
 2.Navigate to the project directory:
  ```bash
-cd Affine-Cipher-Decryption:
+cd Affine-Cipher-Decryption
+
+
+
 
